@@ -32,5 +32,7 @@ By default, the application will listen on port 8080. You can change the port by
 The following API endpoints are available:
 
 GET /api/rate: Retrieves the current exchange rate of Bitcoin to Ukrainian Hryvnia.
+
 POST /api/subscribe: Subscribes an email address to receive exchange rate change notifications.
+
 POST /api/sendEmails: Sends an email to all subscribed users with the current exchange rate.
