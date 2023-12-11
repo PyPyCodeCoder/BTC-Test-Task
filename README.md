@@ -1,23 +1,10 @@
 # BTC-Test-Task
 
-## Morning!
-
-If, by some miracle, you've found this branch, I'm very glad! 😍
-
-This is one of my initial experiences with Git, so I encountered a few problems with commits and branches. 👉👈
-
-Furthermore, I've made updates to the Dockerfile here, and it functions as intended. 
-
-If you could evaluate this work instead of the one on the master branch, I would greatly appreciate it. 
-
-I genuinely put in effort to create a functional application, and I would like you to assess it accurately.😊
-
 ## For any questions you can leave me a message:
   * @I3314 - telegram 
   * levvalos@gmail.com - email
   
 ## Description
-
 This repository contains a Go application that implements an API service for managing exchange rates and email subscriptions. The service provides the following functionalities:
 
 Get the current exchange rate of Bitcoin (BTC) to Ukrainian Hryvnia (UAH).
