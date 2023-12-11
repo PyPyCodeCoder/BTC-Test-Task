@@ -1,9 +1,5 @@
 # BTC-Test-Task
 
-## For any questions you can leave me a message:
-  * @I3314 - telegram 
-  * levvalos@gmail.com - email
-  
 ## Description
 This repository contains a Go application that implements an API service for managing exchange rates and email subscriptions. The service provides the following functionalities:
 
@@ -42,3 +38,7 @@ GET /api/rate: Retrieves the current exchange rate of Bitcoin to Ukrainian Hryvn
 POST /api/subscribe: Subscribes an email address to receive exchange rate change notifications.
 
 POST /api/sendEmails: Sends an email to all subscribed users with the current exchange rate.
+
+### For any questions you can leave me a message:
+  * @I3314 - telegram 
+  * levvalos@gmail.com - email
